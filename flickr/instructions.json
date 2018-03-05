@@ -1,0 +1,19 @@
+{
+	"main_script": "flickr.js",
+	"icon": "flickr.png",
+	"width": 800,
+	"height": 600,
+	"resize": "free",
+	"animation": false,
+	"dependencies": [
+	],
+	"load": {
+		"value": 4
+	},
+	"title": "flickr",
+	"version": "1.0.0",
+	"description": "SAGE2 application flickr",
+	"keywords": [ "sage2", "flickr" ],
+	"author": "Helena Pavlikova <pavlihel@fit.cvut.cz>",
+	"license": "SAGE2-Software-License"
+}
