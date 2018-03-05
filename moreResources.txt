@@ -1,5 +1,0 @@
-https://idratherbewriting.com/learnapidoc/docapis_flickr_example.html
-https://www.flickr.com/services/apps/create/noncommercial/
-http://youmightnotneedjquery.com/
-https://stackoverflow.com/questions/1140402/how-to-add-jquery-in-js-file
-https://www.sitepoint.com/load-flickr-photos-using-jsonapi/
